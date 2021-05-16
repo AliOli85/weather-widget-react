@@ -110,6 +110,7 @@ function App() {
           className="repo-link"
           href="https://github.com/AliOli85/weather-widget-react"
           target="_blank"
+          rel="noopener noreferrer"
         >
           Open-source code
         </a>
