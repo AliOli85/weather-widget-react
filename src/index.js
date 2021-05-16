@@ -65,11 +65,11 @@ function App() {
         <div className="col-12 text-center">
           <h3>
             <span id="temperature">16</span>
-            <a href="#" id="celsius-link" className="active">
+            <a href="\" id="celsius-link" className="active">
               °C
             </a>
             |
-            <a href="#" id="fahrenheit-link" className="link">
+            <a href="\" id="fahrenheit-link" className="link">
               °F
             </a>
           </h3>
