@@ -108,7 +108,7 @@ function App() {
       <small>
         <a
           className="repo-link"
-          href="https://github.com/AliOli85/weather-widget"
+          href="https://github.com/AliOli85/weather-widget-react"
           target="_blank"
         >
           Open-source code
